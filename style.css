@@ -93,3 +93,9 @@ margin: 0 43px 48px;
 .btn-2{
     color: #004140;
 }
+.btn-3:hover{
+    background-color: #006971;
+}
+.btn-2:hover{
+    background-color: #004140;
+}
