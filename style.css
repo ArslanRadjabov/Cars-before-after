@@ -3,9 +3,10 @@
 *{
     box-sizing: border-box;
     margin: 0;
-    padding: 0;    
+    padding: 0;
 }
 .section-1{
+    font-family: 'Lexend Deca', 'Arial', sans-serif;    
     background-color: #E28625;
     width: 307px;
     height: 500px;
@@ -52,7 +53,7 @@
 }
 
 .sedans{
-    /* font-family: Big Shoulders Display; */
+    font-family: 'Big Shoulders Display', 'Arial', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 40px;
