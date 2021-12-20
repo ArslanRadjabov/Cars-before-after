@@ -33,7 +33,6 @@
 }
 .container-sedan::before{
     content: '';
-    margin-left:48px;
     width: 64px;
     height: 40px;
     background-image: url('../icon-sedan.svg');
@@ -49,7 +48,6 @@
 }
 .container-luxury::before{
     content: '';
-    margin-left:48px;
     width: 64px;
     height: 40px;
     background-image: url('../icon-luxury.svg');
